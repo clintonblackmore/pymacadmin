@@ -122,34 +122,244 @@
           <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Interface/en1/AirPort'</string>
         </dict>
 
-        <key>Setup:/Network/Service/4486FA84-8018-437C-9BEF-250518D09D87</key>
+        <key>Setup:/Network/Service/0A2132C9-F86A-4C72-8341-688096889D75</key>
         <dict>
           <key>command</key>
-          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/4486FA84-8018-437C-9BEF-250518D09D87'</string>
+          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/0A2132C9-F86A-4C72-8341-688096889D75'</string>
         </dict>
 
-        <key>Setup:/Network/Service/4486FA84-8018-437C-9BEF-250518D09D87/IPv4</key>
+        <key>Setup:/Network/Service/0A2132C9-F86A-4C72-8341-688096889D75/IPv4</key>
         <dict>
           <key>command</key>
-          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/4486FA84-8018-437C-9BEF-250518D09D87/IPv4'</string>
+          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/0A2132C9-F86A-4C72-8341-688096889D75/IPv4'</string>
         </dict>
 
-        <key>Setup:/Network/Service/4486FA84-8018-437C-9BEF-250518D09D87/IPv6</key>
+        <key>Setup:/Network/Service/0A2132C9-F86A-4C72-8341-688096889D75/IPv6</key>
         <dict>
           <key>command</key>
-          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/4486FA84-8018-437C-9BEF-250518D09D87/IPv6'</string>
+          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/0A2132C9-F86A-4C72-8341-688096889D75/IPv6'</string>
         </dict>
 
-        <key>Setup:/Network/Service/4486FA84-8018-437C-9BEF-250518D09D87/Interface</key>
+        <key>Setup:/Network/Service/0A2132C9-F86A-4C72-8341-688096889D75/Interface</key>
         <dict>
           <key>command</key>
-          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/4486FA84-8018-437C-9BEF-250518D09D87/Interface'</string>
+          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/0A2132C9-F86A-4C72-8341-688096889D75/Interface'</string>
         </dict>
 
-        <key>Setup:/Network/Service/4486FA84-8018-437C-9BEF-250518D09D87/Proxies</key>
+        <key>Setup:/Network/Service/0A2132C9-F86A-4C72-8341-688096889D75/Proxies</key>
         <dict>
           <key>command</key>
-          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/4486FA84-8018-437C-9BEF-250518D09D87/Proxies'</string>
+          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/0A2132C9-F86A-4C72-8341-688096889D75/Proxies'</string>
+        </dict>
+
+        <key>Setup:/Network/Service/22EB47EE-A2F9-4F6F-89D2-92A41A97146E</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/22EB47EE-A2F9-4F6F-89D2-92A41A97146E'</string>
+        </dict>
+
+        <key>Setup:/Network/Service/22EB47EE-A2F9-4F6F-89D2-92A41A97146E/Ethernet</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/22EB47EE-A2F9-4F6F-89D2-92A41A97146E/Ethernet'</string>
+        </dict>
+
+        <key>Setup:/Network/Service/22EB47EE-A2F9-4F6F-89D2-92A41A97146E/IPv4</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/22EB47EE-A2F9-4F6F-89D2-92A41A97146E/IPv4'</string>
+        </dict>
+
+        <key>Setup:/Network/Service/22EB47EE-A2F9-4F6F-89D2-92A41A97146E/IPv6</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/22EB47EE-A2F9-4F6F-89D2-92A41A97146E/IPv6'</string>
+        </dict>
+
+        <key>Setup:/Network/Service/22EB47EE-A2F9-4F6F-89D2-92A41A97146E/Interface</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/22EB47EE-A2F9-4F6F-89D2-92A41A97146E/Interface'</string>
+        </dict>
+
+        <key>Setup:/Network/Service/22EB47EE-A2F9-4F6F-89D2-92A41A97146E/Proxies</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/22EB47EE-A2F9-4F6F-89D2-92A41A97146E/Proxies'</string>
+        </dict>
+
+        <key>Setup:/Network/Service/343C2E66-44C4-472D-8AF1-CD2BFDA9B886</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/343C2E66-44C4-472D-8AF1-CD2BFDA9B886'</string>
+        </dict>
+
+        <key>Setup:/Network/Service/343C2E66-44C4-472D-8AF1-CD2BFDA9B886/IPv4</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/343C2E66-44C4-472D-8AF1-CD2BFDA9B886/IPv4'</string>
+        </dict>
+
+        <key>Setup:/Network/Service/343C2E66-44C4-472D-8AF1-CD2BFDA9B886/IPv6</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/343C2E66-44C4-472D-8AF1-CD2BFDA9B886/IPv6'</string>
+        </dict>
+
+        <key>Setup:/Network/Service/343C2E66-44C4-472D-8AF1-CD2BFDA9B886/Interface</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/343C2E66-44C4-472D-8AF1-CD2BFDA9B886/Interface'</string>
+        </dict>
+
+        <key>Setup:/Network/Service/343C2E66-44C4-472D-8AF1-CD2BFDA9B886/Modem</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/343C2E66-44C4-472D-8AF1-CD2BFDA9B886/Modem'</string>
+        </dict>
+
+        <key>Setup:/Network/Service/343C2E66-44C4-472D-8AF1-CD2BFDA9B886/PPP</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/343C2E66-44C4-472D-8AF1-CD2BFDA9B886/PPP'</string>
+        </dict>
+
+        <key>Setup:/Network/Service/343C2E66-44C4-472D-8AF1-CD2BFDA9B886/Proxies</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/343C2E66-44C4-472D-8AF1-CD2BFDA9B886/Proxies'</string>
+        </dict>
+
+        <key>Setup:/Network/Service/8E28AA78-FFF6-4113-B31C-AFA0BBF3629B</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/8E28AA78-FFF6-4113-B31C-AFA0BBF3629B'</string>
+        </dict>
+
+        <key>Setup:/Network/Service/8E28AA78-FFF6-4113-B31C-AFA0BBF3629B/IPv4</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/8E28AA78-FFF6-4113-B31C-AFA0BBF3629B/IPv4'</string>
+        </dict>
+
+        <key>Setup:/Network/Service/8E28AA78-FFF6-4113-B31C-AFA0BBF3629B/Interface</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/8E28AA78-FFF6-4113-B31C-AFA0BBF3629B/Interface'</string>
+        </dict>
+
+        <key>Setup:/Network/Service/8E28AA78-FFF6-4113-B31C-AFA0BBF3629B/Proxies</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/8E28AA78-FFF6-4113-B31C-AFA0BBF3629B/Proxies'</string>
+        </dict>
+
+        <key>Setup:/Network/Service/93071A4E-F5D3-4E14-97BC-B43BF24D13EE</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/93071A4E-F5D3-4E14-97BC-B43BF24D13EE'</string>
+        </dict>
+
+        <key>Setup:/Network/Service/93071A4E-F5D3-4E14-97BC-B43BF24D13EE/IPSec</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/93071A4E-F5D3-4E14-97BC-B43BF24D13EE/IPSec'</string>
+        </dict>
+
+        <key>Setup:/Network/Service/93071A4E-F5D3-4E14-97BC-B43BF24D13EE/IPv4</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/93071A4E-F5D3-4E14-97BC-B43BF24D13EE/IPv4'</string>
+        </dict>
+
+        <key>Setup:/Network/Service/93071A4E-F5D3-4E14-97BC-B43BF24D13EE/IPv6</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/93071A4E-F5D3-4E14-97BC-B43BF24D13EE/IPv6'</string>
+        </dict>
+
+        <key>Setup:/Network/Service/93071A4E-F5D3-4E14-97BC-B43BF24D13EE/Interface</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/93071A4E-F5D3-4E14-97BC-B43BF24D13EE/Interface'</string>
+        </dict>
+
+        <key>Setup:/Network/Service/93071A4E-F5D3-4E14-97BC-B43BF24D13EE/PPP</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/93071A4E-F5D3-4E14-97BC-B43BF24D13EE/PPP'</string>
+        </dict>
+
+        <key>Setup:/Network/Service/93071A4E-F5D3-4E14-97BC-B43BF24D13EE/Proxies</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/93071A4E-F5D3-4E14-97BC-B43BF24D13EE/Proxies'</string>
+        </dict>
+
+        <key>Setup:/Network/Service/DC226063-6EEC-461C-8CC4-7D764EDC60A2</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/DC226063-6EEC-461C-8CC4-7D764EDC60A2'</string>
+        </dict>
+
+        <key>Setup:/Network/Service/DC226063-6EEC-461C-8CC4-7D764EDC60A2/Ethernet</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/DC226063-6EEC-461C-8CC4-7D764EDC60A2/Ethernet'</string>
+        </dict>
+
+        <key>Setup:/Network/Service/DC226063-6EEC-461C-8CC4-7D764EDC60A2/IPv4</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/DC226063-6EEC-461C-8CC4-7D764EDC60A2/IPv4'</string>
+        </dict>
+
+        <key>Setup:/Network/Service/DC226063-6EEC-461C-8CC4-7D764EDC60A2/IPv6</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/DC226063-6EEC-461C-8CC4-7D764EDC60A2/IPv6'</string>
+        </dict>
+
+        <key>Setup:/Network/Service/DC226063-6EEC-461C-8CC4-7D764EDC60A2/Interface</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/DC226063-6EEC-461C-8CC4-7D764EDC60A2/Interface'</string>
+        </dict>
+
+        <key>Setup:/Network/Service/DC226063-6EEC-461C-8CC4-7D764EDC60A2/Proxies</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/DC226063-6EEC-461C-8CC4-7D764EDC60A2/Proxies'</string>
+        </dict>
+
+        <key>Setup:/Network/Service/FA16DA03-F53D-4D11-A341-8C5D05C8C6AB</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/FA16DA03-F53D-4D11-A341-8C5D05C8C6AB'</string>
+        </dict>
+
+        <key>Setup:/Network/Service/FA16DA03-F53D-4D11-A341-8C5D05C8C6AB/IPv4</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/FA16DA03-F53D-4D11-A341-8C5D05C8C6AB/IPv4'</string>
+        </dict>
+
+        <key>Setup:/Network/Service/FA16DA03-F53D-4D11-A341-8C5D05C8C6AB/IPv6</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/FA16DA03-F53D-4D11-A341-8C5D05C8C6AB/IPv6'</string>
+        </dict>
+
+        <key>Setup:/Network/Service/FA16DA03-F53D-4D11-A341-8C5D05C8C6AB/Interface</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/FA16DA03-F53D-4D11-A341-8C5D05C8C6AB/Interface'</string>
+        </dict>
+
+        <key>Setup:/Network/Service/FA16DA03-F53D-4D11-A341-8C5D05C8C6AB/Proxies</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'Setup:/Network/Service/FA16DA03-F53D-4D11-A341-8C5D05C8C6AB/Proxies'</string>
         </dict>
 
         <key>Setup:/System</key>
@@ -200,10 +410,22 @@
           <string>tunnel.sh 'SystemConfiguration' 'State:/Network/Global/Proxies'</string>
         </dict>
 
+        <key>State:/Network/Global/SMB</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'State:/Network/Global/SMB'</string>
+        </dict>
+
         <key>State:/Network/Interface</key>
         <dict>
           <key>command</key>
           <string>tunnel.sh 'SystemConfiguration' 'State:/Network/Interface'</string>
+        </dict>
+
+        <key>State:/Network/Interface/en0/IPv4</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'State:/Network/Interface/en0/IPv4'</string>
         </dict>
 
         <key>State:/Network/Interface/en0/Link</key>
@@ -224,16 +446,46 @@
           <string>tunnel.sh 'SystemConfiguration' 'State:/Network/Interface/en1/IPv4'</string>
         </dict>
 
-        <key>State:/Network/Interface/en1/IPv6</key>
-        <dict>
-          <key>command</key>
-          <string>tunnel.sh 'SystemConfiguration' 'State:/Network/Interface/en1/IPv6'</string>
-        </dict>
-
         <key>State:/Network/Interface/en1/Link</key>
         <dict>
           <key>command</key>
           <string>tunnel.sh 'SystemConfiguration' 'State:/Network/Interface/en1/Link'</string>
+        </dict>
+
+        <key>State:/Network/Interface/en2/IPv4</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'State:/Network/Interface/en2/IPv4'</string>
+        </dict>
+
+        <key>State:/Network/Interface/en2/IPv6</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'State:/Network/Interface/en2/IPv6'</string>
+        </dict>
+
+        <key>State:/Network/Interface/en2/Link</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'State:/Network/Interface/en2/Link'</string>
+        </dict>
+
+        <key>State:/Network/Interface/en3/IPv4</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'State:/Network/Interface/en3/IPv4'</string>
+        </dict>
+
+        <key>State:/Network/Interface/en3/IPv6</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'State:/Network/Interface/en3/IPv6'</string>
+        </dict>
+
+        <key>State:/Network/Interface/en3/Link</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'State:/Network/Interface/en3/Link'</string>
         </dict>
 
         <key>State:/Network/Interface/fw0/Link</key>
@@ -254,18 +506,6 @@
           <string>tunnel.sh 'SystemConfiguration' 'State:/Network/Interface/lo0/IPv6'</string>
         </dict>
 
-        <key>State:/Network/Interface/vmnet1/IPv4</key>
-        <dict>
-          <key>command</key>
-          <string>tunnel.sh 'SystemConfiguration' 'State:/Network/Interface/vmnet1/IPv4'</string>
-        </dict>
-
-        <key>State:/Network/Interface/vmnet8/IPv4</key>
-        <dict>
-          <key>command</key>
-          <string>tunnel.sh 'SystemConfiguration' 'State:/Network/Interface/vmnet8/IPv4'</string>
-        </dict>
-
         <key>State:/Network/MulticastDNS</key>
         <dict>
           <key>command</key>
@@ -278,22 +518,52 @@
           <string>tunnel.sh 'SystemConfiguration' 'State:/Network/PrivateDNS'</string>
         </dict>
 
-        <key>State:/Network/Service/4486FA84-8018-437C-9BEF-250518D09D87/DHCP</key>
+        <key>State:/Network/Service/22EB47EE-A2F9-4F6F-89D2-92A41A97146E/DHCP</key>
         <dict>
           <key>command</key>
-          <string>tunnel.sh 'SystemConfiguration' 'State:/Network/Service/4486FA84-8018-437C-9BEF-250518D09D87/DHCP'</string>
+          <string>tunnel.sh 'SystemConfiguration' 'State:/Network/Service/22EB47EE-A2F9-4F6F-89D2-92A41A97146E/DHCP'</string>
         </dict>
 
-        <key>State:/Network/Service/4486FA84-8018-437C-9BEF-250518D09D87/DNS</key>
+        <key>State:/Network/Service/22EB47EE-A2F9-4F6F-89D2-92A41A97146E/IPv4</key>
         <dict>
           <key>command</key>
-          <string>tunnel.sh 'SystemConfiguration' 'State:/Network/Service/4486FA84-8018-437C-9BEF-250518D09D87/DNS'</string>
+          <string>tunnel.sh 'SystemConfiguration' 'State:/Network/Service/22EB47EE-A2F9-4F6F-89D2-92A41A97146E/IPv4'</string>
         </dict>
 
-        <key>State:/Network/Service/4486FA84-8018-437C-9BEF-250518D09D87/IPv4</key>
+        <key>State:/Network/Service/8E28AA78-FFF6-4113-B31C-AFA0BBF3629B/DHCP</key>
         <dict>
           <key>command</key>
-          <string>tunnel.sh 'SystemConfiguration' 'State:/Network/Service/4486FA84-8018-437C-9BEF-250518D09D87/IPv4'</string>
+          <string>tunnel.sh 'SystemConfiguration' 'State:/Network/Service/8E28AA78-FFF6-4113-B31C-AFA0BBF3629B/DHCP'</string>
+        </dict>
+
+        <key>State:/Network/Service/8E28AA78-FFF6-4113-B31C-AFA0BBF3629B/DNS</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'State:/Network/Service/8E28AA78-FFF6-4113-B31C-AFA0BBF3629B/DNS'</string>
+        </dict>
+
+        <key>State:/Network/Service/8E28AA78-FFF6-4113-B31C-AFA0BBF3629B/IPv4</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'State:/Network/Service/8E28AA78-FFF6-4113-B31C-AFA0BBF3629B/IPv4'</string>
+        </dict>
+
+        <key>State:/Network/Service/8E28AA78-FFF6-4113-B31C-AFA0BBF3629B/SMB</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'State:/Network/Service/8E28AA78-FFF6-4113-B31C-AFA0BBF3629B/SMB'</string>
+        </dict>
+
+        <key>State:/Network/Service/DC226063-6EEC-461C-8CC4-7D764EDC60A2/DHCP</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'State:/Network/Service/DC226063-6EEC-461C-8CC4-7D764EDC60A2/DHCP'</string>
+        </dict>
+
+        <key>State:/Network/Service/DC226063-6EEC-461C-8CC4-7D764EDC60A2/IPv4</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'State:/Network/Service/DC226063-6EEC-461C-8CC4-7D764EDC60A2/IPv4'</string>
         </dict>
 
         <key>State:/Users/ConsoleUser</key>
@@ -306,6 +576,12 @@
         <dict>
           <key>command</key>
           <string>tunnel.sh 'SystemConfiguration' 'com.apple.DirectoryService.NotifyTypeStandard:DirectoryNodeAdded'</string>
+        </dict>
+
+        <key>com.apple.DirectoryService.NotifyTypeStandard:SearchPolicyChanged</key>
+        <dict>
+          <key>command</key>
+          <string>tunnel.sh 'SystemConfiguration' 'com.apple.DirectoryService.NotifyTypeStandard:SearchPolicyChanged'</string>
         </dict>
 
         <key>com.apple.network.identification</key>
